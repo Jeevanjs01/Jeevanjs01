@@ -1,6 +1,7 @@
 # 💫 About Me:
 ## 👋 About Me<br><br>
-Hi, I'm **Jeevan Jot Singh** — a backend developer who enjoys building efficient and scalable applications using **ASP.NET Core** and **.NET technologies**.  
+Hi, I'm **Jeevan Jot Singh** 
+A backend developer   
 💼 I'm currently working on backend project on a **Resume Analyzer**.  
 🧠 Currently diving deeper into **Data Structures & Algorithms (DSA)** to sharpen my problem-solving skills.  
 🤝 I’m looking to collaborate on open-source .NET projects or anything involving **clean backend architecture**.  
