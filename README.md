@@ -1,14 +1,12 @@
 ## 👋 About Me
 
-Hi, I'm **Jeevan Jot Singh**, a backend developer passionate about building scalable and clean server-side applications.
+Hi, I'm **Jeevan Jot Singh** — a backend developer focused on building clean, scalable systems.
 
-- 💼 Currently working on a backend project: **Resume Analyzer**
-- 🧠 Actively sharpening problem-solving skills through **Data Structures & Algorithms**
-- 🤝 Looking to collaborate on **.NET** open-source projects or anything involving clean backend architecture
-- 📚 Lifelong learner exploring full-stack tools, clean code principles, and software architecture
-- 💬 Ask me about **.NET**, **SQL**, or backend design patterns
-- ❓ Have an idea or need a teammate? I'm open to collaboration!
-- 🎯 Fun fact: I enjoy solving real-world problems through code more than solving riddles (but I enjoy those too)
+-  Currently working on a backend project: **Resume Analyzer**
+-  Improving my skills in **Data Structures & Algorithms**
+-  Open to collaborating on **.NET** projects and clean architecture initiatives
+-  Passionate about backend design, **SQL**, and solving real-world problems through code
+
 
 ---
 
