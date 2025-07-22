@@ -10,7 +10,7 @@ Hi, I'm **Jeevan Jot Singh** — a backend developer focused on building clean, 
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jeevannn)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jeevan0.1_)
@@ -20,7 +20,7 @@ Hi, I'm **Jeevan Jot Singh** — a backend developer focused on building clean, 
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
@@ -40,7 +40,7 @@ Hi, I'm **Jeevan Jot Singh** — a backend developer focused on building clean, 
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=jeevanjs01&theme=radical&hide_border=true&include_all_commits=true&count_private=true&v=20250708)  
 ![](https://nirzak-streak-stats.vercel.app/?user=jeevanjs01&theme=radical&hide_border=true&v=20250708)  
