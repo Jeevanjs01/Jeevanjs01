@@ -54,7 +54,6 @@ Hi, I'm **Jeevan Jot Singh** — a backend developer passionate about building c
 
   <!-- DevOps / Tools -->
   <img src="https://img.icons8.com/color/48/git.png" title="Git" />
-  <img src="https://img.icons8.com/ios-glyphs/48/github.png" title="GitHub" />
   <img src="https://raw.githubusercontent.com/github/docs/main/assets/images/site/favicon.svg" title="GitHub Actions" height="40px" />
   <img src="https://img.icons8.com/color/48/azure-1.png" title="Azure DevOps" />
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" title="Postman" />
