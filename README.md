@@ -42,9 +42,7 @@ Hi, I'm **Jeevan Jot Singh** — a backend developer focused on building clean, 
 
 ##  GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=jeevanjs01&theme=radical&hide_border=true&include_all_commits=true&count_private=true&v=20250708)  
 ![](https://nirzak-streak-stats.vercel.app/?user=jeevanjs01&theme=radical&hide_border=true&v=20250708)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanjs01&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&v=20250708)
 
 ---
 
